@@ -1,0 +1,28 @@
+{
+  "name": "voluptasquidem",
+  "version": "1.0.0",
+  "description": "TreeView implemented with vanilla JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CathrinePowlowski/voluptasquidem.git"
+  },
+  "keywords": [
+    "suscipit",
+    "quaerat",
+    "atque",
+    "voluptas",
+    "browser",
+    "deserunt"
+  ],
+  "author": "JoSchuster",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "clean-css": "^3.4.11",
+    "csslint": "^0.10.0",
+    "jshint": "^2.8.0",
+    "node-qunit-phantomjs": "^1.4.0",
+    "uglify-js": "^2.6.1"
+  }
+}
